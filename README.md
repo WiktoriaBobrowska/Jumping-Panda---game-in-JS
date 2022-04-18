@@ -1,7 +1,7 @@
 
 Podgląd
 
-![Screenshot](zrzuty/zrzut1.png "Screenshot")
+![Screenshot](screenshots/zrzut1.png "Screenshot")
 
 Opis gry
 
