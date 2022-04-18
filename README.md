@@ -7,8 +7,8 @@ Opis gry
 
 Jumping Panda to gra, w której mała panda wskakuje coraz wyżej po pędach bambusa. Celem gry jest uzyskanie jak największej liczby punktów. Dodatkowe punkty są dodawane za przejście na wyższy poziom ze względu na to, że gra przyspiesza swoje działanie. Gdy panda spadnie, rozgrywka zostaje zakończona.
 
-![Screenshot](zrzuty/zrzut2.png "Screenshot")
-![Screenshot](zrzuty/zrzut3.png "Screenshot")
+![Screenshot](screenshots/zrzut2.png "Screenshot")
+![Screenshot](screenshots/zrzut3.png "Screenshot")
 
 Atrakcyjność
 
